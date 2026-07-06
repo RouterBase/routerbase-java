@@ -8,7 +8,7 @@
 <dependency>
   <groupId>com.routerbase</groupId>
   <artifactId>routerbase-client</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
 </dependency>
 ```
 
